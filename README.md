@@ -17,7 +17,7 @@
 <br>
 <samp>
   <p align="center">
-    Its fine even if you start with bad codes, keep coding.
+    Keep learning and stay routing.
     <br>
     From <a href="https://github.com/arifbudiono/arifbudiono">arifbudiono</a>
   </p>
