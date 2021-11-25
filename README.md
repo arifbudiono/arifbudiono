@@ -18,6 +18,6 @@
   <p align="center">
     Its fine even if you start with bad codes, keep coding.
     <br>
-    From <a href="https://github.com/ragil000/ragil000">ragil000</a>
+    From <a href="https://github.com/arifbudiono/arifbudiono">arifbudiono</a>
   </p>
 </samp>
