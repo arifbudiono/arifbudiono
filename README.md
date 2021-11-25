@@ -2,6 +2,7 @@
 <p align="center"><br>
   <samp>
     「 a Network Engineer 」<br>
+    <a href="https://github.com/arifbudiono"> <img src="https://visitor-badge.laobi.icu/badge?page_id=arifbudiono" alt="Visitors"></a>
   </samp>
 </p>
  <p align="center">
