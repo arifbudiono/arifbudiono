@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ragil000.github.io/rmy-portfolio-reactjs/">Arif Budiono</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 a Network Engineer 」<br>
+    「 a Server Administrator 」<br>
     <a href="https://github.com/arifbudiono"> <img src="https://visitor-badge.laobi.icu/badge?page_id=arifbudiono" alt="Visitors"></a>
   </samp>
 </p>
