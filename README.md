@@ -18,7 +18,5 @@
 <samp>
   <p align="center">
     Keep learning, sharing and stay routing the world.
-    <br>
-    From <a href="https://github.com/arifbudiono/arifbudiono">arifbudiono</a>
   </p>
 </samp>
