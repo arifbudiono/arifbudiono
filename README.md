@@ -1,4 +1,8 @@
-<h3 align="center"><samp>Hello! I am <b><a href="https://github.com/arifbudiono">Arif Budiono</a></b></samp></h3>
+<p align="center">
+  <a href="https://github.com/arifbudiono?tab=repositories">
+    <img src="header.svg" alt="Hello! I am Arif Budiono">
+  </a>
+</p>
 
 <p align="center">
   <samp>
