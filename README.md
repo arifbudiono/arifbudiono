@@ -1,9 +1,7 @@
 <p align="center">
   <a href="https://github.com/arifbudiono?tab=repositories">
     <img src="header.svg" alt="Hello! I am Arif Budiono">
-  </a>
-</p>
-<p align="center">
+  </a><br>
   <samp>
     「 System Administrator 」<br>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=arifbudiono" alt="Visitors">
