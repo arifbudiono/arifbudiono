@@ -3,7 +3,6 @@
     <img src="header.svg" alt="Hello! I am Arif Budiono">
   </a>
 </p>
-
 <p align="center">
   <samp>
     「 System Administrator 」<br>
