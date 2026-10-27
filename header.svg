@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60" role="img" aria-label="Hello! I am Arif Budiono">
+  <style>
+    text { font: bold 28px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #1f2328; }
+    .name { fill: #0969da; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #f0f6fc; }
+      .name { fill: #58a6ff; }
+    }
+  </style>
+  <text x="300" y="40" text-anchor="middle">Hello! I am <tspan class="name">Arif Budiono</tspan></text>
+</svg>
