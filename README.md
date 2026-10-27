@@ -1,22 +1,18 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">Arif Budiono</a></b></samp></h3>
-<p align="center"><br>
+<h3 align="center"><samp>Hello! I am <b><a href="https://github.com/arifbudiono">Arif Budiono</a></b></samp></h3>
+
+<p align="center">
   <samp>
-    「 a Server Administrator 」<br>
-    <a href="https://github.com/arifbudiono"> <img src="https://visitor-badge.laobi.icu/badge?page_id=arifbudiono" alt="Visitors"></a>
+    「 System Administrator 」<br>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=arifbudiono" alt="Visitors">
   </samp>
 </p>
- <p align="center">
-      <a href="https://github.com/arifbudiono?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-      <a href="https://github.com/arifbudiono?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
-      <a href="https://github.com/ragil000?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
-      <a href="https://github.com/arifbudiono?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"></a>
-      <a href="https://github.com/ragil000?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-375eab?style=flat-square&logo=Go&logoColor=white"></a>
-      <a href="https://github.com/ragil000?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
-  <br>
-  </p>
-<br>
-<samp>
-  <p align="center">
-    Keep learning, sharing and stay routing the world.
-  </p>
-</samp>
+
+<p align="center">
+  <a href="https://github.com/arifbudiono?tab=repositories"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
+  <a href="https://github.com/arifbudiono?tab=repositories&language=shell"><img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"></a>
+  <a href="https://github.com/arifbudiono?tab=repositories&language=python"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="https://github.com/arifbudiono?tab=repositories"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
+  <a href="https://github.com/arifbudiono?tab=repositories"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white"></a>
+</p>
+
+<p align="center"><samp>If I do it twice, I script it.</samp></p>
