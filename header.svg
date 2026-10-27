@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60" role="img" aria-label="Hello! I am Arif Budiono">
   <style>
-    text { font: bold 28px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #1f2328; }
+    text { font: bold 20px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #1f2328; }
     .name { fill: #0969da; }
     @media (prefers-color-scheme: dark) {
       text { fill: #f0f6fc; }
