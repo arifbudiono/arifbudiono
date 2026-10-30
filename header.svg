@@ -3,7 +3,7 @@
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; text-anchor: middle; fill: #1f2328; }
     .hello { font-size: 20px; font-weight: bold; }
     .name { fill: #0969da; }
-    .role { font-size: 12px; }
+    .role { font-size: 14px; }
     @media (prefers-color-scheme: dark) {
       text { fill: #f0f6fc; }
       .name { fill: #58a6ff; }
